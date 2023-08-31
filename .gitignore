@@ -1,0 +1,13 @@
+*
+!.gitignore
+
+!mods/
+!mods/*
+!config/
+!config/*
+!emotes/
+!emotes/*
+
+
+
+
